@@ -1,4 +1,4 @@
-package com.example.spring.spring_rest.entity;
+package com.example.spring.spring_rest_security.entity;
 
 public class StudentOld {
     private String firstname;

@@ -1,4 +1,4 @@
-package com.example.spring.spring_rest.dto;
+package com.example.spring.spring_rest_security.dto;
 
 import jakarta.validation.constraints.Size;
 import jakarta.validation.constraints.Email;

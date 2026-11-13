@@ -1,7 +1,4 @@
-package com.example.spring.spring_rest.controller;
-
-import com.example.spring.spring_rest.dto.StudentDto;
-import com.example.spring.spring_rest.service.StudentService;
+package com.example.spring.spring_rest_security.controller;
 
 import jakarta.validation.Valid;
 
@@ -18,6 +15,9 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.example.spring.spring_rest_security.dto.StudentDto;
+import com.example.spring.spring_rest_security.service.StudentService;
 
 /**
  * REST controller for managing student resources.

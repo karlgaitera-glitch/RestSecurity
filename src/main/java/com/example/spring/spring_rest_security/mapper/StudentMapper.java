@@ -1,7 +1,7 @@
-package com.example.spring.spring_rest.mapper;
+package com.example.spring.spring_rest_security.mapper;
 
-import com.example.spring.spring_rest.entity.Student;
-import com.example.spring.spring_rest.dto.StudentDto;
+import com.example.spring.spring_rest_security.dto.StudentDto;
+import com.example.spring.spring_rest_security.entity.Student;
 
 public class StudentMapper {
 

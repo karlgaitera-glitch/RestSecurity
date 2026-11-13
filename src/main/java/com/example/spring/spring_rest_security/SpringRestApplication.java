@@ -1,4 +1,4 @@
-package com.example.spring.spring_rest;
+package com.example.spring.spring_rest_security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

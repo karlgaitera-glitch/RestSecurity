@@ -1,8 +1,8 @@
-package com.example.spring.spring_rest.service;
-
-import com.example.spring.spring_rest.dto.StudentDto;
+package com.example.spring.spring_rest_security.service;
 
 import java.util.List;
+
+import com.example.spring.spring_rest_security.dto.StudentDto;
 
 public interface StudentService {
 

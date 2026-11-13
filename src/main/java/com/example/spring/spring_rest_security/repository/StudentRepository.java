@@ -1,7 +1,8 @@
-package com.example.spring.spring_rest.repository;
+package com.example.spring.spring_rest_security.repository;
 
-import com.example.spring.spring_rest.entity.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.example.spring.spring_rest_security.entity.Student;
 
 /**
  * Spring Data JPA repository for {@link Student} entities.
