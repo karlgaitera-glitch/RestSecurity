@@ -7,6 +7,6 @@ import com.example.spring.spring_rest_security.entity.Student;
 /**
  * Spring Data JPA repository for {@link Student} entities.
  */
-public interface StudentRepository extends JpaRepository<Student, Long>{
-    
+public interface StudentRepository extends JpaRepository<Student, Long> {
+
 }
